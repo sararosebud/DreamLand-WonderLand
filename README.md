@@ -68,8 +68,9 @@ It is accessible on various devices and screen sizes.
  5. Proceed to secure checkout on your favorite items
 
  
-## Deployed Herok Application Link: (Coming Soon)
-[Deployed Heroku Application Link:]
+## Deployed Herok Application Link: 
+[Deployed Heroku Application Link:] (https://arcane-spire-25027-6f1b8d854313.herokuapp.com/)
+
 
 ## GitHub Repository:
 [GitHub Repository:] (https://github.com/Sunny9810/DreamLand-WonderLand)
