@@ -80,7 +80,7 @@ It is accessible on various devices and screen sizes.
 ![image](https://github.com/sararosebud/DreamLand-WonderLand/assets/113923132/c250b8ae-7af6-4f9c-9f8d-9133a27440eb)
 
 ## Screenshots:
-### Figure 2. Deployed Application Screenshot.
+![image](https://github.com/sararosebud/DreamLand-WonderLand/assets/113923132/4721d80c-f035-4fea-b642-67f76348dfe6)
 
 ## Installation Process:
 1. Clone the Repository from GitHub (or) Download Zip Folder from Repository from GitHub.
