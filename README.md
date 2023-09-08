@@ -54,10 +54,6 @@ The application boasts a responsive and polished user interface.
 It is accessible on various devices and screen sizes.
 ```
 
-## GIF:
-### Figure 1. GIF.
-
-#### The following animation demonstrates the application functionality:(Coming Soon)
 
 ## Usage Instructions:
 
