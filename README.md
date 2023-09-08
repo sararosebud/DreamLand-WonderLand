@@ -77,7 +77,7 @@ It is accessible on various devices and screen sizes.
 
 
 ## Screenshots:
-### Figure 1. WIREFRAME Screenshot.
+![image](https://github.com/sararosebud/DreamLand-WonderLand/assets/113923132/c250b8ae-7af6-4f9c-9f8d-9133a27440eb)
 
 ## Screenshots:
 ### Figure 2. Deployed Application Screenshot.
